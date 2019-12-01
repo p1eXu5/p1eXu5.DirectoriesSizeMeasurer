@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D9B457E5-ED9B-4A24-8F81-0AA01711DCDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p1eXu5.DirectoriesSizeMeasurer.DesktopClient", "src\p1eXu5.DirectoriesSizeMeasurer.DesktopClient\p1eXu5.DirectoriesSizeMeasurer.DesktopClient.csproj", "{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0BD4F5A-EA70-418C-A941-7EF7B0932B9B} = {D9B457E5-ED9B-4A24-8F81-0AA01711DCDD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034D9CE1-8CE6-43C1-BD2A-FA70266DCFCB}
+	EndGlobalSection
+EndGlobal
